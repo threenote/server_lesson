@@ -1,0 +1,79 @@
+    1  cd /root
+    2  yum update -y &&yum -y install git
+    3  git version
+    4  mkdir server_lesson && cd server_lesson
+    5  git version
+    6  git init
+    7  git status
+    8  mkdir linux_practice1
+    9  ls
+   10  touch first.txt
+   11  cd linux_practice
+   12  cd linux_practice
+   13  cd linux_practice1
+   14  mkdir public
+   15  touch index.php
+   16  ls
+   17  rm index.php
+   18  ls
+   19  cd public
+   20   touch index.php
+   21  cp index.php index_bk.php
+   22  ls
+   23  cd ..
+   24  cp public tmp
+   25  cp -r public tmp
+   26  cd tmp
+   27  ls
+   28  rm index_bk.php
+   29  cd ..
+   30  cd ..
+   31  touch README.md
+   32  vi README.md
+   33  mkdir linux_practice2
+   34  cd linux_practice2
+   35  mkdir documents
+   36  cd documents
+   37  touch gizumo0?.md
+   38  ls
+   39  touch gizumo01.md
+   40  ls
+   41  rm gizumo0?.md
+   42  touch gizumo01.md
+   43  touch gizumo02.md && touch gizumo03.md && touch gizumo04.md
+   44  touch gizumo05.md && touch gizumo06.md && touch gizumo07.md && touch gizumo08.md
+   45  touch gizumo09.md && touch gizumo10.md && touch gizumo11.md && touch gizumo12.md
+   46  touch gizumo13.md && touch gizumo14.md && touch gizumo15.md && touch gizumo16.md
+   47  touch gizumo17.md && touch gizumo18.md && touch gizumo19.md && touch gizumo20.md && touch gizumo21.md &&  touch gizumo22.md
+   48  touch gizumo23.md
+   49  touch gizumo24.md
+   50  touch gizumo25.md
+   51  touch gizumo26.md
+   52  touch gizumo27.md
+   53  touch gizumo28.md
+   54  touch gizumo29.md
+   55  touch gizumo30.md
+   56  touch gizumo31.md
+   57  touch gizumo32.md
+   58  touch gizumo33.md
+   59  touch gizumo34.md
+   60  touch gizumo35.md
+   61  touch gizumo36.md
+   62  touch gizumo36.md
+   63  touch gizumo37.md
+   64  touch gizumo38.md
+   65  touch gizumo39.md
+   66  touch gizumo40.md && touch gizumo41.md && gizumo42.md
+   67  touch gizumo42.md && touch gizumo43.md
+   68  touch gizumo44.md
+   69  touch gizumo45.md && touch gizumo46.md && touch
+   70  touch gizumo47.md && touch gizumo48.md && touch gizumo49.md && touch gizumo50.md
+   71  ls
+   72  cd ..
+   73  mkdir trash
+   74  mv documents/gizumo2?.md trash
+   75  mv documents/gizumo3?.md trash
+   76  mv documents/gizumo40.md trash
+   77  touch .gitignore
+   78  vi .gitignore
+   79  history 300
