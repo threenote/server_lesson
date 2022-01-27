@@ -1,21 +1,11 @@
 1.ls
-
-2.cd
-
-3.mkdir
-
-4.touch
-
-5.cp
-
-6.&&
-
-7.mv
-
-8.rm
-
-9.cat
-
-10.> >>
-
-11.vi
+1.cd
+1.mkdir
+1.touch
+1.cp
+1.&&
+1.mv
+1.rm
+1.cat
+1.> >>
+1.vi
